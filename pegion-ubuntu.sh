@@ -91,3 +91,13 @@ EOF
 sudo cat /etc/systemd/system/node_exporter.service
 sudo systemctl daemon-reload  && sudo systemctl enable node_exporter
 sudo systemctl start node_exporter.service && sudo systemctl status node_exporter.service --no-pager
+
+
+
+
+
+
+
+
+
+
